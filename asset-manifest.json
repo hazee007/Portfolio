@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hazee007/Portfolio/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hazee007/Portfolio/static/js/main.bcd851e7.chunk.js",
+    "main.js.map": "/hazee007/Portfolio/static/js/main.bcd851e7.chunk.js.map",
+    "runtime-main.js": "/hazee007/Portfolio/static/js/runtime-main.e6249ed7.js",
+    "runtime-main.js.map": "/hazee007/Portfolio/static/js/runtime-main.e6249ed7.js.map",
+    "static/js/2.34284ce7.chunk.js": "/hazee007/Portfolio/static/js/2.34284ce7.chunk.js",
+    "static/js/2.34284ce7.chunk.js.map": "/hazee007/Portfolio/static/js/2.34284ce7.chunk.js.map",
+    "index.html": "/hazee007/Portfolio/index.html",
+    "precache-manifest.f514bd652b8919cd453cde87451f5170.js": "/hazee007/Portfolio/precache-manifest.f514bd652b8919cd453cde87451f5170.js",
+    "service-worker.js": "/hazee007/Portfolio/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hazee007/Portfolio/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.34284ce7.chunk.js.LICENSE.txt": "/hazee007/Portfolio/static/js/2.34284ce7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6249ed7.js",
+    "static/js/2.34284ce7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bcd851e7.chunk.js"
+  ]
+}
