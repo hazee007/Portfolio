@@ -86,7 +86,7 @@ const Projects = () => (
                             <h4 className="">Like this template??</h4>
                             <p> 
                                 Get the HTML template from <a href="https://colorlib.com/wp/template/jackson/" target='blank' >Colorlib</a> or <br />
-                                React Template from <a href="https://github.com/hazee007/myportfolio">Here</a>
+                                React Template from <a href="https://github.com/hazee007/Portfolio">Here</a>
                             </p>	
                         </div>
                       </div>

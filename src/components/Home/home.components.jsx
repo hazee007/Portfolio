@@ -42,7 +42,7 @@ const Home =() =>{
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>A <br/>and  <br />...lot more</h1>
+                          <h1>A <br/> <br /> and  <br />...lot more</h1>
                         </div>
                       </div>
                     </div>
